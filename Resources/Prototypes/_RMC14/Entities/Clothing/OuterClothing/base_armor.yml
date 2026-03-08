@@ -72,6 +72,7 @@
       - RMCXM51Holster
       - RMCDetector
       - RMCMatebaHolster
+      - RMCCameraBroadcasting
 
 - type: entity
   abstract: true
@@ -91,6 +92,7 @@
       - Binoculars
       - RMCGeneralPistolHolster
       - RMCGeneralRevolverHolster
+      - RMCCameraBroadcasting
 
 - type: entity
   abstract: true

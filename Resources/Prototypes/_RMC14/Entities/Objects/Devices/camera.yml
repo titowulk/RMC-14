@@ -27,3 +27,14 @@
     rename: false
   - type: Corrodible
     isCorrodible: false
+  - type: Clothing
+    sprite: _RMC14/Objects/Weapons/Guns/Shotguns/m42a2/desert.rsi
+    slots:
+    - Back
+    - suitStorage
+  - type: Tag
+    tags:
+    - RMCCameraBroadcasting
+
+- type: Tag
+  id: RMCCameraBroadcasting

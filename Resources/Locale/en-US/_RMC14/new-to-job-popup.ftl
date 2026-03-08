@@ -65,3 +65,11 @@ rmc-new-to-job-dcc = As a Dropship Crew Chief, your job is to assist the pilots 
                                              In the case of a medevac, go to the back of the ship and interact with the red medevac module. This will bring the patient up onto your ship from the ground. Inform the Almayer's medical staff that they are coming aboard and make sure they are brought into their care.
 
                                              You may be required to perform additional tasks, such as retrieving medical supplies, obtaining parachutes, triage of revivable marine personnel, and any other task given by your assigned pilot.
+rmc-new-to-job-cc = As a Correspondent, your job is to keep the masses informed on the efforts of the United Nations Marine Corps! Be that through film and broadcast, pen and paper journalism, or any other means.
+
+                                             The Correspondents' room is East (Right) of the cryopods where you awaken. Head down the hallway until you find the white door labeled the Correspondents' room. From there, you can get your Correspondent essentials and your TV camera to film the action. This camera broadcasts a live view to any televisions on the ship (audio not included), so make sure to get good shots for the folks back home! The fax machine in the room is also your tool for sending articles around the ship or contacting The Free Press. 
+
+                                             Correspondents may deploy or remain on the ship; it's your choice! Plenty of newsworthy events may occur on the ship during an operation, and interviewing the unsung heroes in the supporting departments is always popular back home. But if it's action you or your viewerbase wish for, there's always the frontline. 
+
+                                             Deploying Correspondents may carry a sidearm for self-defense; however, you are not a combatant! Time spent fighting or physically assisting the Marines is time not spent filming or writing. Being too helpful may turn your press uniform from a shield to a target for the UNMC's enemies. You can't report when you're dead, so play it safe and stay alive! 
+
